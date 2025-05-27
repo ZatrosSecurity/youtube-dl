@@ -2,7 +2,7 @@
 *.pyo
 *.class
 *~
-*.DS_Store
+*.DS_Store 
 wine-py2exe/
 py2exe.log
 *.kate-swp
@@ -45,7 +45,7 @@ youtube-dl.zsh
 # IntelliJ related files
 .idea
 *.iml
-
+  
 tmp/
 venv/
 
